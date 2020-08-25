@@ -193,7 +193,7 @@ button:hover {
   color: #212121;
   font-size: 28px;
   font-weight: 400;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   text-align: center;
 }
 .playlist .song {

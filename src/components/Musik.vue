@@ -193,7 +193,7 @@ button:hover {
   color: #212121;
   font-size: 28px;
   font-weight: 400;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   text-align: center;
 }
 .playlist .song {
@@ -214,6 +214,9 @@ button:hover {
 }
 
 footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
   text-align: center;
   padding: 15px;
   background-color: #212121;
